@@ -1,0 +1,2 @@
+"use strict";document.addEventListener("DOMContentLoaded",function(){new Splide("#mySlider",{classes:{pagination:"splide__pagination gallery-section__pagination",page:"splide__pagination__page gallery-section__pagination-page"},arrows:!1,pagination:!0}).mount()});let submitButton=document.querySelector("#submitButton"),emailInput=document.querySelector("#emailInput");submitButton.addEventListener("click",function(){emailInput.value=""});
+//# sourceMappingURL=project-NAMU.71d56286.js.map
